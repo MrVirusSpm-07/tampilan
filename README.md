@@ -11,8 +11,10 @@ gem install lolcat
 pkg install bash                   
 pkg install git                      
 git clone https://github.com/MrVirusSpm-07/tampilan  
-cd tampilan                 
+                     
 nano .bashrc                  
+clear                    
+cd tampilan
 sh tampilan.sh                 
 
 Cara save
