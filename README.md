@@ -18,4 +18,7 @@ cd tampilan
 sh tampilan.sh                 
 
 Cara save                      
-Ketik tombol ctrl x y enter
+Ketik tombol ctrl x y enter             
+
+# pasword
+panglima
