@@ -14,8 +14,8 @@ git clone https://github.com/MrVirusSpm-07/tampilan
                      
 nano .bashrc                  
 clear                    
-cd tampilan
+cd tampilan                         
 sh tampilan.sh                 
 
-Cara save
+Cara save                      
 Ketik tombol ctrl x y enter
